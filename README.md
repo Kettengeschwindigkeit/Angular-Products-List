@@ -1,4 +1,6 @@
-# Angular14CrashCourse2022
+## description
+
+Angular quick course 2022 by Vladilen Minin - https://www.youtube.com/watch?v=yCIti018Srw&list=PLqKQF2ojwm3lrzkYrqnxh6qywB99dCyCt&index=17&pp=iAQ
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
